@@ -54,3 +54,5 @@ To load the test dataset in your jupyter notebook, use the below command:
 
 
 test_data = pd.read_csv('https://raw.githubusercontent.com/dphi-official/Datasets/master/pharma_data/Testing_set_begs.csv')
+
+Referenced: https://www.kaggle.com/code/manishkc06/patient-survival-after-one-year-of-treatment/notebook
